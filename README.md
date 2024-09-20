@@ -1,6 +1,3 @@
-Sure! Here’s a simplified README:
-
-```markdown
 # Rossmann Pharmaceuticals Sales Forecasting
 
 ## Overview
